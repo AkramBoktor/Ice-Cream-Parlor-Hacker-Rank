@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day8\Ice Cream Parlor\obj\Debug\Ice Cream Parlor.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day8\Ice Cream Parlor\obj\Debug\Ice Cream Parlor.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day8\Ice Cream Parlor\bin\Debug\Ice Cream Parlor.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day8\Ice Cream Parlor\bin\Debug\Ice Cream Parlor.exe
+C:\Users\Akram\Desktop\HackerRank\Day8\Ice Cream Parlor\bin\Debug\Ice Cream Parlor.pdb
+C:\Users\Akram\Desktop\HackerRank\Day8\Ice Cream Parlor\obj\Debug\Ice Cream Parlor.exe
+C:\Users\Akram\Desktop\HackerRank\Day8\Ice Cream Parlor\obj\Debug\Ice Cream Parlor.pdb
